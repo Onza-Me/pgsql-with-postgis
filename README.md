@@ -1,0 +1,1 @@
+# Docker image PostgreSQL 12.3 with Postgis 3
